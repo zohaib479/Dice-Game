@@ -1,0 +1,23 @@
+body
+{
+    background-color: grey;
+} 
+.container
+{
+  text-align: center;
+  color: #DCFFB7;
+  font-size: 4rem;
+}
+.dice
+{
+   position:absolute;
+   right: 300px;
+}
+.d1
+{
+    margin-right: 600px;
+}
+.d2
+{
+    margin-left: 300px;
+}
